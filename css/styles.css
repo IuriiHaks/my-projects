@@ -78,8 +78,6 @@ img {
     gap: 40px;
 }
 
-
-
 .menu-list .link:hover,
 .menu-list .link:focus,
 .address-link:hover,
@@ -99,10 +97,6 @@ img {
     padding: 24px 0;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
-/* .link.current {
-    position: relative;
-} */
 
 .link::after {
     content: "";
